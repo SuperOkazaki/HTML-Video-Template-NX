@@ -1,6 +1,6 @@
 # HTML-Video-Template-NX
 
-#THIS IS A WIP REPO AND IS NOT READY FOR USE YET
+# THIS IS A WIP REPO AND IS NOT READY FOR USE YET
 
 For use with HomebrewWebFramework (can't link it here).
 
