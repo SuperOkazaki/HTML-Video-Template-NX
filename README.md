@@ -21,6 +21,7 @@ The recommended tool is Handbrake. Enable these settings, and optionally make a 
 - Only encode one audio and video track into the file
 
 #FAQ and Troubleshooting
+
 **Q: Why can't you link to HomebrewWebFramework?**
 
 A: I just can't. Don't ask me to provide it, because I won't.
