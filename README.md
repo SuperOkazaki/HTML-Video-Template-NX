@@ -6,10 +6,10 @@ For use with HomebrewWebFramework (can't link it here).
 
 This provides a simple framework for making easy to use installable video players for Nintendo Switch. Videos are (obviously) not provided, but easy to make and instructions can be found under the **Encoding** header.
 
-#Usage
+# Usage
 
 
-#Encoding
+# Encoding
 Follow these directions to make the most reliable videos.
 
 The recommended tool is Handbrake. Enable these settings, and optionally make a preset for easier encoding.
@@ -20,7 +20,7 @@ The recommended tool is Handbrake. Enable these settings, and optionally make a 
 - If using subtitles, make sure to choose the "burn-in" option.
 - Only encode one audio and video track into the file
 
-#FAQ and Troubleshooting
+# FAQ and Troubleshooting
 
 **Q: Why can't you link to HomebrewWebFramework?**
 
