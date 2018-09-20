@@ -14,7 +14,7 @@ Follow these directions to make the most reliable videos.
 
 The recommended tool is Handbrake. Enable these settings, and optionally make a preset for easier encoding.
 
-- Set video resolution to 1024 x 720
+- Set video resolution to 1280 x 720
 - Enable the "Web Optimized" setting
 - Output as .mp4
 - If using subtitles, make sure to choose the "burn-in" option.
