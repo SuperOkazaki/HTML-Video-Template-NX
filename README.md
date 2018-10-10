@@ -1,6 +1,6 @@
 # HTML-Video-Template-NX
 
-# THIS IS A PoC WIP REPO AND IS NOT READY FOR USE YET
+# This project currently works perfectly, but has no documentation on usage yet. If you are familiar with web development, it won't be hard to decipher, but for the rest of you, documentation is coming soon.
 
 For use with HomebrewWebFramework (can't link it here).
 
@@ -34,6 +34,6 @@ A: Make sure to enable the "select user on launch" option in the builder.
 
 A: Try building with another keygen. 4.0.1-4.1 works well in my experience.
 
-**Q: Your GUI is too simple.**
+**Q: HomebrewWebFramework is crashing. What do?**
 
-A: Make a better one and make a pull request.
+A. Make sure your app icon is a 24-bit .bmp.
