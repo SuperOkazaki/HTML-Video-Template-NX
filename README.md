@@ -1,6 +1,6 @@
 # HTML-Video-Template-NX
 
-# This project currently works perfectly, but has no documentation on usage yet. If you are familiar with web development, it won't be hard to decipher, but for the rest of you, documentation is coming soon.
+This project currently works, but has no documentation on usage yet. If you are familiar with web development, it won't be hard to decipher, but for the rest of you, documentation is coming soon.
 
 For use with HomebrewWebFramework (can't link it here).
 
