@@ -6,6 +6,16 @@ For use with HomebrewWebFramework (can't link it here).
 
 This provides a simple framework for making easy to use installable video players for Nintendo Switch. Videos are (obviously) not provided, but easy to make and instructions can be found under the **Encoding** header.
 
+# Features
+- Responsive and customizable GUI that looks great on the Switch's screen
+- Slots for up to 12 videos on a page
+  - Later on, this will support more slots on a page, and a configurable second page
+- Titles for each video on the main GUI
+- Descriptions for each video on the main GUI
+- Icons for each video on the main GUI
+- Centered banner at the top for the title of the collection
+- Template .bmp images for the Horizon app icon
+
 # Usage
 
 
