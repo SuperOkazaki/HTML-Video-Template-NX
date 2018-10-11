@@ -1,3 +1,4 @@
+![header](https://i.imgur.com/moddJ35.png)
 # HTML-Video-Template-NX
 
 This provides a simple framework for making easy to use installable video players for Nintendo Switch. Videos are (obviously) not provided, but easy to make and instructions can be found under the **Encoding** header.
