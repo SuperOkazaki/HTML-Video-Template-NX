@@ -71,9 +71,7 @@ The recommended tool is Handbrake. Enable these settings, and optionally make a 
 - Only encode one audio and video track into the file
 
 # Preview
-[Here is what the base template looks like on the Nintendo Switch](https://i.imgur.com/Dv1Kzfn.jpg)
-
-[Here is an example of what someone has made, of the show **Oshiete! Galko-chan**](https://imgur.com/cMu3cqm.jpg)
+[Here is an example of what someone has made, of the show **Oshiete! Galko-chan**](https://i.imgur.com/TVJvJAy.png)
 
 # FAQ and Troubleshooting
 
