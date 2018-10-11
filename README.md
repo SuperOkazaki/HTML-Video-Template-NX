@@ -1,10 +1,11 @@
 # HTML-Video-Template-NX
 
+This provides a simple framework for making easy to use installable video players for Nintendo Switch. Videos are (obviously) not provided, but easy to make and instructions can be found under the **Encoding** header.
+
 If you just want to get up and running, head down to the **Usage** section and get going.
+If you want to preview what it looks like on the Switch console, go to the **Preview** section.
 
 For use with HomebrewWebFramework (can't link it here).
-
-This provides a simple framework for making easy to use installable video players for Nintendo Switch. Videos are (obviously) not provided, but easy to make and instructions can be found under the **Encoding** header.
 
 # Features
 - Made in simple HTML with no copyrighted/SDK tools, so it can be used if a non-SDK html to .nsp maker comes out
@@ -67,6 +68,11 @@ The recommended tool is Handbrake. Enable these settings, and optionally make a 
 - Output as .mp4
 - If using subtitles, make sure to choose the "burn-in" option.
 - Only encode one audio and video track into the file
+
+# Preview
+[Here is what it looks like when you download the base template](https://i.imgur.com/Dv1Kzfn.jpg)
+
+[Here is an example of what someone has made, of the show **Oshiete! Galko-chan**](https://imgur.com/cMu3cqm.jpg)
 
 # FAQ and Troubleshooting
 
